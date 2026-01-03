@@ -1,77 +1,96 @@
 <div align="center"> <h1> Pastas Aranda</h1> <h3>Sistema de Gestión Integral para Fábrica de Pastas</h3> <p> Sistema desarrollado para administrar de forma centralizada la <b>producción</b>, <b>pedidos</b>, <b>stock</b>, <b>costos</b> y <b>clientes</b> de una fábrica de pastas, optimizando los procesos diarios y brindando control total del negocio. </p> <img src="https://img.shields.io/badge/Estado-Funcional-success"> <img src="https://img.shields.io/badge/Tipo-Sistema%20Productivo-orange"> <img src="https://img.shields.io/badge/Enfoque-Fábrica%20Real-brown"> </div>
-✨ Descripción general
+<div style="background:#fff7e6; border-left:6px solid #d97706; padding:16px; border-radius:8px">
 
- Sistema web completo orientado a producción y ventas reales
+ Sistema web completo orientado a producción real
 
-Pastas Aranda replica el funcionamiento diario de una fábrica de pastas artesanal, permitiendo controlar desde un solo lugar:
+Pastas Aranda replica el funcionamiento diario de una fábrica de pastas artesanal, integrando en un solo sistema:
 
-Producción diaria
+Producción
 
-Pedidos de clientes
+Pedidos
 
-Stock de mercadería y materia prima
+Stock
 
-Costos y movimientos
+Costos
 
-Empleados y distribuidores
+Personas
 
- Acceso al sistema
+Todo con una interfaz clara, visual y pensada para el uso diario.
 
-El sistema cuenta con inicio de sesión para garantizar seguridad y control de la información.
+</div>
+🔥 ¿Qué problema resuelve este sistema?
+<div style="background:#fef3c7; padding:14px; border-radius:10px">
 
-Usuario y contraseña
+❌ Procesos manuales
+❌ Pedidos desordenados
+❌ Falta de control de stock
+❌ Dificultad para ver costos reales
 
-Acceso a módulos según rol
+</div> <div style="background:#ecfeff; padding:14px; border-radius:10px; margin-top:10px">
 
-Cierre de sesión desde el panel principal
+✅ Centraliza la información
+✅ Reduce errores humanos
+✅ Optimiza tiempos de producción
+✅ Da control total del negocio
 
- Panel de Control
+</div>
+🧭 Flujo general del sistema
+Inicio de sesión
+      ↓
+Panel de control
+      ↓
+Pedidos → Producción → Stock → Costos → Caja
 
-El panel centraliza todos los módulos del sistema en tarjetas visuales claras y ordenadas.
 
-Módulos principales:
+🔄 Todo conectado, todo actualizado en tiempo real.
 
- Arqueo de caja
+🧩 Panel de Control (núcleo del sistema)
+<div style="background:#fff; padding:18px; border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,.08)">
 
- Cambios de mercadería
+Desde el panel principal se accede a todos los módulos, organizados en tarjetas visuales.
 
- Clientes distribuidores
+</div>
+📌 Módulos disponibles
 
- Clientes mayoristas
+🧮 Arqueo de Caja
 
- Costos de mercadería
+🔄 Cambios de Mercadería
 
- Gestión de empleados
+🚚 Clientes Distribuidores
 
- Notas de pedido
+👥 Clientes Mayoristas
 
- Pedidos
+💰 Costos de Mercadería
 
- Producción diaria
+👨‍💼 Gestión de Empleados
 
- Stock de materia prima
+📝 Notas de Pedido
 
- Stock de mercadería
+🛒 Pedidos
 
- Módulo de Pedidos
+🏭 Producción Diaria
 
-Diseñado para gestionar pedidos de forma rápida y visual.
+📦 Stock de Materia Prima
 
-Funcionalidades:
+📦 Stock de Mercadería
 
-Selección de productos por categoría
+🛒 Módulo de Pedidos (experiencia visual)
+<div style="background:#fff7ed; padding:16px; border-radius:12px">
 
-Agregado dinámico al pedido
+🎯 Diseñado para velocidad y claridad.
 
-Carrito visual
+Selección por categorías
 
-Finalización del pedido
+Tarjetas de productos
 
-Flujo simple y sin errores
+Botones grandes y claros
 
-Productos organizados por tipo:
+Flujo guiado hasta finalizar pedido
 
-Tapas tradicionales / caseras / verdes
+</div>
+Categorías de productos
+
+Tapas (tradicionales, caseras y verdes)
 
 Pascualinas
 
@@ -83,38 +102,29 @@ Ravioles
 
 Tapas especiales
 
- Producción Diaria
+🏭 Producción Diaria
+<div style="background:#ecfeff; padding:16px; border-radius:12px">
 
-Permite registrar y consultar la producción diaria de la fábrica:
+📊 Registro diario de la producción real de la fábrica.
 
-Control de cantidades producidas
+Control por fecha
 
-Registro por fecha
+Relación directa con pedidos
 
-Relación directa con pedidos y stock
+Impacto automático en stock
 
-Visión clara del trabajo diario
+Visión clara del rendimiento diario
 
-📦 Gestión de Stock
-Stock de mercadería
+</div>
+📦 Gestión de Stock Inteligente
+<table> <tr> <th>Tipo</th> <th>Control</th> </tr> <tr> <td>📦 Mercadería</td> <td>Productos terminados listos para venta</td> </tr> <tr> <td>🌾 Materia Prima</td> <td>Insumos utilizados en producción</td> </tr> </table>
 
-Control de productos terminados
+🔄 El stock se actualiza según producción + pedidos
 
-Actualización automática según producción y pedidos
+💰 Costos y Arqueo de Caja
+<div style="background:#f0fdf4; padding:16px; border-radius:12px">
 
-Stock de materia prima
-
-Harina
-
-Rellenos
-
-Insumos
-
-Control de disponibilidad real
-
- Costos y Arqueo de Caja
-
-Herramientas pensadas para el control económico del negocio:
+💸 Módulos enfocados en el control económico real.
 
 Registro de costos
 
@@ -122,14 +132,29 @@ Arqueo de caja
 
 Control de ingresos y egresos
 
-Visualización clara del estado financiero
+Información clara para la toma de decisiones
 
+</div>
 👥 Gestión de Personas
+<details> <summary><b>Ver gestión de personas</b></summary>
 
-Gestión de empleados
+Empleados
 
-Gestión de clientes mayoristas
+Clientes mayoristas
 
-Gestión de distribuidores
+Distribuidores
 
-Asociación de pedidos y movimientos
+Asociación con pedidos y movimientos
+
+</details>
+🧠 Filosofía del sistema
+<div align="center">
+
+🏭 Producción organizada
+📦 Stock controlado
+🛒 Pedidos claros
+💰 Costos visibles
+
+<b>Un sistema pensado para trabajar, no para decorar.</b>
+
+</div>
